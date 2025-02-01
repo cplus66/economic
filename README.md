@@ -1,7 +1,7 @@
 # Economic
 
 ## Inflation (通貨膨脹)
-- Draw one picture for historical "銀行存款與流通貨幣(Money supply)","躉售物價(Wholesale Price Index, WPI)","生活成本(Cost of Living or Consumer Price)".
+- Draw one picture for historical "銀行存款與流通貨幣(Money supply)","躉售物價(Wholesale Price Index, WPI)","生活成本(Cost of Living)".
 - What is Consumer Price Index (CPI) 消費者物價指數?
 
 
